@@ -13,7 +13,7 @@ git clone https://github.com/imsalik/image_classification_CNN.git
 
 For more detailed insights into the project, check out the accompanying blog post:
 
-[**Leveraging Deep Learning for Image Classification: A Journey Through CNNs and Transfer Learning**]([link-to-medium-blog](https://medium.com/@imsalik/deep-learning-for-image-classification-57c787681ab7))
+[**Leveraging Deep Learning for Image Classification: A Journey Through CNNs and Transfer Learning**](link-to-medium-blog](https://medium.com/@imsalik/deep-learning-for-image-classification-57c787681ab7)
 
 ## Thank You!
 
