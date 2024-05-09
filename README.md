@@ -1,6 +1,6 @@
-# Deep Learning for Image Classification: A Journey Through CNNs and Transfer Learning
+# Deep Learning for Image Classification
 
-Brief project description.
+This project explores the implementation of Convolutional Neural Networks (CNNs) and transfer learning techniques for image classification tasks. It covers the fundamentals of CNNs, including architecture design and training, and delves into leveraging transfer learning with pre-trained models such as ResNet-18. The goal is to provide a comprehensive demonstration of building CNN architectures and utilizing transfer learning to enhance model performance in image classification tasks.
 
 ## Clone Repository
 
