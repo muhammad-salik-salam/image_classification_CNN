@@ -6,7 +6,7 @@ Brief project description.
 
 To clone the repository, run the following command:
 ```bash
-git clone https://github.com/imsalik/repository-name.git
+git clone https://github.com/imsalik/image_classification_CNN.git
 ```
 
 ## Blog Post
