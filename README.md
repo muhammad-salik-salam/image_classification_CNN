@@ -5,8 +5,9 @@ Brief project description.
 ## Clone Repository
 
 To clone the repository, run the following command:
+```bash
 git clone https://github.com/imsalik/repository-name.git
-
+```
 
 ## Blog Post
 
